@@ -2,7 +2,7 @@
 
 A simple and intuitive post creation tool built with **Next.js (TypeScript)** and integrated with the **Google Gemini API** to assist in content generation.  
 
-> 🚀 Live on Vercel soon: [https://postcreator-omega.vercel.app/](https://postcreator-omega.vercel.app/) *(link will be active after deployment)*
+> 🚀 Live on Vercel: [https://postcreator-omega.vercel.app/](https://postcreator-omega.vercel.app/) 
 
 ---
 
